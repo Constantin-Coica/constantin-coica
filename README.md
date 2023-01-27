@@ -1,4 +1,4 @@
-### Hi there, I'm Constantin a Cloud Engineer based in the UK👋.
+### Hi there, I'm Constantin, a Cloud Engineer based in the UK👋.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
