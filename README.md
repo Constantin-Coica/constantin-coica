@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently part of the _nology Cloud Engineer course.
 - 🌱 I’m currently learning creative writing.
-- ⚡ Fun fact: I'm left handed
+- ⚡ Fun fact: I'm left handed.
 
 ---
 
