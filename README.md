@@ -1,4 +1,6 @@
-### Hi there, I'm Constantin, a Cloud Engineer based in the UK👋.
+### Hi there, I'm Constantin, a Cloud and Software Engineer based in the UK👋.
+
+#### I have an MEng in Computer Science from University Of Southampton and I'm always looking for new challenges and learning something new.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
